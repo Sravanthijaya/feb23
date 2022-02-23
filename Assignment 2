@@ -1,0 +1,7 @@
+l=[68,91,53]
+l.reverse()
+print (l)
+
+
+Output:
+[53, 91, 68]
